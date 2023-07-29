@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+	.
+	..\..\..\..\..\go\pkg\mod\github.com\gocolly\colly\v2@v2.1.0
+)
