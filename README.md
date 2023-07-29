@@ -1,6 +1,6 @@
 # READ ME
 
-GitHub Repo URL: [needed]
+GitHub Repo URL: https://github.com/jssuzuki1/assignment_5a
 
 Our main objective is to create a program that will scrape the following wikipedia articles using the Colly package:
 		"https://en.wikipedia.org/wiki/Robotics",
