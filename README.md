@@ -1,4 +1,4 @@
-# READ ME
+# Webscraping Wikipedia
 
 GitHub Repo URL: https://github.com/jssuzuki1/assignment_5a
 
